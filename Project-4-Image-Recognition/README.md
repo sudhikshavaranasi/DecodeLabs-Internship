@@ -34,7 +34,7 @@ pip install opencv-python
 ## Run the Program
 
 ```bash
-python face_detection.py
+python detection.py
 ```
 
 ## Output
